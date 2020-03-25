@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.3.20)  24 MAR 2020 21:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.3.20)  24 MAR 2020 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -214,23 +214,142 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 )
 (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-) (./recuAlgebra.aux)
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen124
+\Hy@linkcounter=\count145
+\Hy@pagecounter=\count146
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count147
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4540.
+Package hyperref Info: Link nesting OFF on input line 4545.
+Package hyperref Info: Hyper index ON on input line 4548.
+Package hyperref Info: Plain pages OFF on input line 4555.
+Package hyperref Info: Backreferencing OFF on input line 4560.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4793.
+\c@Hy@tempcnt=\count148
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5152.
+\XeTeXLinkMargin=\dimen125
+\Fld@menulength=\count149
+\Field@Width=\dimen126
+\Fld@charsize=\dimen127
+Package hyperref Info: Hyper figures OFF on input line 6423.
+Package hyperref Info: Link nesting OFF on input line 6428.
+Package hyperref Info: Hyper index ON on input line 6431.
+Package hyperref Info: backreferencing OFF on input line 6438.
+Package hyperref Info: Link coloring OFF on input line 6443.
+Package hyperref Info: Link coloring with OCG OFF on input line 6448.
+Package hyperref Info: PDF/A mode OFF on input line 6453.
+LaTeX Info: Redefining \ref on input line 6493.
+LaTeX Info: Redefining \pageref on input line 6497.
+\Hy@abspage=\count150
+\c@Item=\count151
+\c@Hfootnote=\count152
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/09/28 v7.00a Hyperref driver for pdfTeX
+\Fld@listcount=\count153
+\c@bookmark@seq@number=\count154
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip75
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 11.
+
+(./recuAlgebra.aux)
 \openout1 = `recuAlgebra.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+ (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
@@ -249,56 +368,22 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count145
-\scratchdimen=\dimen124
+\scratchcounter=\count155
+\scratchdimen=\dimen128
 \scratchbox=\box30
-\nofMPsegments=\count146
-\nofMParguments=\count147
+\nofMPsegments=\count156
+\nofMParguments=\count157
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count148
-\MPscratchDim=\dimen125
-\MPnumerator=\count149
-\makeMPintoPDFobject=\count150
+\MPscratchCnt=\count158
+\MPscratchDim=\dimen129
+\MPnumerator=\count159
+\makeMPintoPDFobject=\count160
 \everyMPtoPDFconversion=\toks28
 ))) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
 (/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
-(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
@@ -311,15 +396,45 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\Gin@req@height=\dimen126
-\Gin@req@width=\dimen127
+\Gin@req@height=\dimen130
+\Gin@req@width=\dimen131
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+\AtBeginShipoutBox=\box31
+
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 13.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count161
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+
+(./recuAlgebra.out) (./recuAlgebra.out)
+\@outlinefile=\write3
+\openout3 = `recuAlgebra.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -328,90 +443,98 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 
-Overfull \hbox (18.9719pt too wide) in paragraph at lines 19--21
+Overfull \hbox (18.9719pt too wide) in paragraph at lines 27--29
 []\OT1/cmr/m/n/12 Hallar $\OML/cmm/m/it/12 f \OMS/cmsy/m/n/12 2 \U/msb/m/n/12 Q
 \OT1/cmr/m/n/12 [\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ]$ de grado m^^S^^Pnimo que 
 cumpla las sigu-ientes condi-ciones si-mult^^Saneamente: 
  []
 
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-2.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+0.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
 
-Overfull \hbox (23.86546pt too wide) detected at line 87
+Overfull \hbox (23.86546pt too wide) detected at line 94
 []
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 129--134
+Underfull \hbox (badness 10000) in paragraph at lines 136--141
 
  []
 
 [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 187--190
+Underfull \hbox (badness 10000) in paragraph at lines 194--197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--194
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
 
  []
 
 [5]
 This exam contains 5 questions with 0 parts, 0 subparts, and 0 subsubparts.
-(./recuAlgebra.aux) ) 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
+(./recuAlgebra.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
+Package rerunfilecheck Info: File `recuAlgebra.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
+ ) 
 Here is how much of TeX's memory you used:
- 4300 strings out of 492167
- 58758 string characters out of 6131558
- 149786 words of memory out of 5000000
- 8614 multiletter control sequences out of 15000+600000
+ 7908 strings out of 492167
+ 113028 string characters out of 6131558
+ 230963 words of memory out of 5000000
+ 12176 multiletter control sequences out of 15000+600000
  12434 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,10n,37p,299b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/symbols/msbm10.pfb>
-Output written on recuAlgebra.pdf (5 pages, 163057 bytes).
+ 45i,11n,34p,228b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb>
+Output written on recuAlgebra.pdf (5 pages, 164059 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
+ 117 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
